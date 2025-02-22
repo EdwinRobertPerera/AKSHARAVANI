@@ -1,3 +1,9 @@
+# Project Review 
+This project is based on Original Repository.<br>
+The original project is for some basic signs but in our repository we have all MSL sign language 
+
+https://github.com/kinivi/hand-gesture-recognition-mediapipe.git
+
 # hand-gesture-recognition-using-mediapipe
 Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
 program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
